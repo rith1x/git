@@ -1,6 +1,6 @@
-
+<span style="color:#0f0;">
 # Upload Entire Local Project to Github repo
-
+</span>
 #### 1️⃣Username of repo owner
 
 $ git config --global user.name "username"
